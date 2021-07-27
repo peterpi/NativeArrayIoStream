@@ -1,0 +1,7 @@
+{
+	"name" : "org.peterpi.nativearrayiostream",
+	"version" : "0.1.0",
+	"dependencies" : {
+		"com.unity.collections" : "0.9.0-preview.5"
+	}
+}

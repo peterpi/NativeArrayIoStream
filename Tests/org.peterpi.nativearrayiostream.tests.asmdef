@@ -1,0 +1,17 @@
+{
+    "name": "org.peterpi.nativearrayiostream.tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:faba1efe5dc52704cbd75a7b379e5e14"
+    ],
+	"optionalUnityReferences" : ["TestAssemblies"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
